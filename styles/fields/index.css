@@ -51,7 +51,7 @@ select {
 .input-wrapper:has([disabled]) {
   opacity: .5;
 }
-~
+
 input {
   &[disabled] {
     background-color: var(--surface-disabled);
